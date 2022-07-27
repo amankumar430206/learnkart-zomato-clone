@@ -2,7 +2,7 @@
   <section class="section-explore py-5">
     <div class="container">
       <h2 class="heading-md mb-4">Explore options near me</h2>
-      <div class="accordion" id="accordionExample">
+      <div class="accordion" id="explore">
         <div class="accordion-item border-1 rounded-0 mb-3 py-2">
           <h2 class="accordion-header" id="headingOne">
             <button
@@ -20,7 +20,7 @@
             id="explore1"
             class="accordion-collapse collapse"
             aria-labelledby="headingOne"
-            data-bs-parent="#accordionExample"
+            data-bs-parent="#explore"
           >
             <div class="accordion-body">
               <div class="lists d-flex flex-wrap">
@@ -64,7 +64,7 @@
             id="explore2"
             class="accordion-collapse collapse"
             aria-labelledby="headingOne"
-            data-bs-parent="#accordionExample"
+            data-bs-parent="#explore"
           >
             <div class="accordion-body">
               <div class="lists d-flex flex-wrap">
@@ -108,7 +108,7 @@
             id="explore3"
             class="accordion-collapse collapse"
             aria-labelledby="headingOne"
-            data-bs-parent="#accordionExample"
+            data-bs-parent="#explore"
           >
             <div class="accordion-body">
               <div class="lists d-flex flex-wrap">
@@ -152,7 +152,7 @@
             id="explore4"
             class="accordion-collapse collapse"
             aria-labelledby="headingOne"
-            data-bs-parent="#accordionExample"
+            data-bs-parent="#explore"
           >
             <div class="accordion-body">
               <div class="lists d-flex flex-wrap">

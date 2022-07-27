@@ -50,7 +50,7 @@
                 <div class="share-link-input d-flex mb-4 mt-3">
                   <input
                     v-show="linkType == 'email' || linkType == null"
-                    type="text"
+                    type="email"
                     class="form-control"
                     placeholder="Email"
                   />
@@ -71,14 +71,14 @@
                   <img
                     class="download-btn"
                     src="https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png"
-                    alt=""
+                    alt="download from google play store"
                   />
                 </a>
                 <a href="#" class="">
                   <img
                     class="download-btn"
                     src="https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png"
-                    alt=""
+                    alt="download from app store"
                   />
                 </a>
               </div>
